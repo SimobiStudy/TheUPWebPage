@@ -1,8 +1,9 @@
 p
 {
-    color: red;
+    color: #450303;
     background-color: #98bc98;
     border: 1px solid black;
     border-radius: 5px;
     padding: 25px;
+    font-weight: bold;
 }
